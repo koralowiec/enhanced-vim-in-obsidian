@@ -9,7 +9,7 @@ This repository contains some adjustments (defined in `app-adjustments.json` and
 1. Make sure that `jq` is available on your system
 2. Make sure that community plugins are turned on (in your Vault's Settings)
 ![](./images/obsidian-turn-on-community-plugins.png)
-3. Install and enable [Vimrc Support](https://github.com/esm7/obsidian-vimrc-support) plugin (clicking [this link](obsidian://show-plugin?id=obsidian-vimrc-support) should open the plugin in your Obsidian)
+3. Install and enable [Vimrc Support](https://github.com/esm7/obsidian-vimrc-support) plugin
 ![](./images/obsidian-vimrc-support.png)
 4. Clone the repo
 5. Run `vimify.sh` script with path to your vault as the first argument:
@@ -22,7 +22,7 @@ This repository contains some adjustments (defined in `app-adjustments.json` and
 
 #### Additional setup
 
-1. If you like relative line numbers, install [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) plugin ([Obsidian link](obsidian://show-plugin?id=obsidian-relative-line-numbers))
+1. If you like relative line numbers, install [Relative Line Numbers](https://github.com/nadavspi/obsidian-relative-line-numbers) plugin
 
 
 #### More about the script
